@@ -1,0 +1,58 @@
+
+.card{
+    margin-left: 2px;
+}
+  
+  .egg:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  .tide:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  .onion:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  .soap:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  .powder:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+  
+  
+.egg{
+
+    margin-left: 0px;
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    
+}
+.tide{
+        object-fit:scale-down;
+    }
+.onion{
+    object-fit:scale-down;
+
+}    
+.soap{
+       margin-left: auto;
+       padding:0%;
+       object-fit:contain;
+    }
+.powder{
+        margin-left: auto;
+        padding:0%;
+        object-fit: contain;
+
+    }

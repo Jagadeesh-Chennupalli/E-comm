@@ -1,0 +1,94 @@
+#dropdownId{
+    border-radius: 35%;
+}
+.form-control{
+    width: 50%;
+}
+.header{
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 70px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000021;
+opacity: 1;
+}
+.navbar-brand{
+    top: 26px;
+left: 50px;
+width: 71px;
+height: 24px;
+text-align: left;
+font: normal normal normal 24px/34px KonsensBold ☞;
+letter-spacing: 0px;
+color: #278C2E;
+opacity: 1;
+}
+.nav-item dropdown{
+    top: 17px;
+left: 325px;
+width: 217px;
+height: 36px;
+background: #278C2E 0% 0% no-repeat padding-box;
+border-radius: 17px;
+opacity: 1;
+}
+.nav-link dropdown-toggle{
+    top: 26px;
+left: 340px;
+width: 86px;
+height: 17px;
+text-align: left;
+font: normal normal medium 14px/17px Lato;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.form-inline{
+    top: 17px;
+left: 557px;
+width: 613px;
+height: 36px;
+background: #F1F1F1 0% 0% no-repeat padding-box;
+border-radius: 17px;
+opacity: 1;
+}
+.form-control{
+    top: 26px;
+left: 572px;
+width: 120px;
+height: 17px;
+text-align: left;
+font: normal normal normal 14px/17px Lato;
+letter-spacing: 0px;
+color: #999999;
+opacity: 1;
+}
+
+.location{
+    top: 17px;
+left: 1486px;
+width: 248px;
+height: 36px;
+background: #F8F8F8 0% 0% no-repeat padding-box;
+border-radius: 17px;
+opacity: 1;
+}
+
+.locate{
+    top: 17px;
+left: 1486px;
+width: 248px;
+height: 36px;
+background: #F8F8F8 0% 0% no-repeat padding-box;
+border-radius: 17px;
+opacity: 1;
+}
+.container{
+    top: 71px;
+left: 140px;
+width: 1640px;
+height: 434px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1.36;
+}
